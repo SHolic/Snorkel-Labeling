@@ -1,0 +1,10 @@
+jieba
+pandas
+numpy
+fasttext
+imblearn
+scikit-learn
+joblib
+sklearn_crfsuite
+snorkel
+torch
